@@ -3,3 +3,4 @@ This project was made for the ''Secure &amp; Private AI Scholarship'' by Udacity
 
 Please, have a look on the provided url for further details!
 
+https://evigian.github.io/udacious-recipes/
